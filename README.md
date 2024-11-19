@@ -1,28 +1,17 @@
 # EESC 1010: The Dynamic Earth - Lecture Notes
 
-This repository contains my compiled lecture notes for **EESC 1010: The Dynamic Earth**, a college-level Earth science course. The notes cover various topics, including plate tectonics, Earth materials and processes, and human interactions with the Earth system, with examples focused on New York City.
+**EESC 1010: The Dynamic Earth** is a college-level Earth science course. These notes cover topics such as plate tectonics, Earth materials and processes, and human interactions with the Earth system, with examples centered on New York City.
 
 ## Contents
-The repository includes:
-- PDF files of lecture notes, updated regularly.
-- Compiled LaTeX source files.
+- **PDF Lecture Notes:** Regularly updated and organized by date.
+- **LaTeX Source Files:** Used to compile the notes.
 
-Each release includes lecture notes organized by date, with changelogs documenting updates.
+Releases include PDFs and a changelog summarizing updates.
 
-## Usage Policy
+## Usage
+These notes are shared under the **Creative Commons BY-NC-SA 4.0 License**, allowing:  
+- **Personal Use and Adaptation:** You can use and modify the notes for non-commercial purposes.  
+- **Attribution:** Please credit me and link back to this repository.  
+- **Sharing Adaptations:** Any changes must be shared under the same terms.  
 
-These notes are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. Here’s what this means:
-
-1. **Personal Use and Adaptation:**  
-   - You are free to use, copy, and adapt these notes for your personal use.
-
-2. **Public Sharing of Changes:**  
-   - If you make changes, adaptations, or additions to these notes, you must share them publicly under the same license.
-
-3. **Non-Commercial Use Only:**  
-   - You may not use these notes or derivatives for commercial purposes without explicit permission from the author.
-
-4. **Attribution:**  
-   - Proper credit must be given to the original author (me), and a link to this repository should be provided when sharing adaptations.
-
-For more details on the license, see the [Creative Commons website](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+For full license details, visit [creativecommons.org](https://creativecommons.org/licenses/by-nc-sa/4.0/).
